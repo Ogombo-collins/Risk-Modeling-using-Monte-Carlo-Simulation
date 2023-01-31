@@ -1,5 +1,7 @@
 # Risk-Modeling-using-Monte-Carlo-Simulation
 CFI-BIDA Program Course detailing how to model risk using Monte Carlo Simulation in Python
+Monte Carlo simulation aid us in understanding the risk of uncertainity in prediction and forecasting models
+
 
 ## Learning Objectives
 1. Use historical observations to estimate the probability distributions of data
