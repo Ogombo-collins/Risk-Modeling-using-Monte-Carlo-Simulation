@@ -1,6 +1,6 @@
 # Risk-Modeling-using-Monte-Carlo-Simulation
 CFI-BIDA Program Course detailing how to model risk using Monte Carlo Simulation in Python
-Monte Carlo simulation aid us in understanding the risk of uncertainity in prediction and forecasting models. Monte Carlo simulations are commonly used to forcast stock prices.
+Monte Carlo simulation aid us in understanding the risk of uncertainity in prediction and forecasting models. Monte Carlo simulations are commonly used to forecast stock prices.
 
 
 ## Learning Objectives
